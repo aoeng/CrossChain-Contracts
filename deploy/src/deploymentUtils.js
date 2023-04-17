@@ -20,7 +20,7 @@ const {
   FOREIGN_EXPLORER_URL,
   HOME_EXPLORER_API_KEY,
   FOREIGN_EXPLORER_API_KEY,
-  HOME_CHAIN_ID ,
+  HOME_CHAIN_ID,
   FOREIGN_CHAIN_ID
 } = require('./web3')
 const verifier = require('./utils/verifier')
